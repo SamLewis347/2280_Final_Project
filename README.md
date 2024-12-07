@@ -1,4 +1,4 @@
-# 2280_Final_Project
+# 2280_Final_Project, Turtle Chess
  Final python coding project for Dr. Burke in CSC2280
 # Final Project Instructions:
  The only thing that you need to know for running my projects is that you need to have all of the .gif images in the same folder
